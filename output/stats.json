@@ -3,13 +3,13 @@
  "per_source": {
   "https://raw.githubusercontent.com/freefq/free/master/v2": 15,
   "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2": "ERR:HTTPError",
-  "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt": 364,
+  "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt": 368,
   "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub": 16,
-  "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 7
+  "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 6
  },
- "raw": 402,
- "unique": 402,
- "endpoints": 337,
- "alive_endpoints": 248,
- "kept": 291
+ "raw": 405,
+ "unique": 405,
+ "endpoints": 344,
+ "alive_endpoints": 263,
+ "kept": 303
 }
