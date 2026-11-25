@@ -5,11 +5,11 @@
   "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2": "ERR:HTTPError",
   "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt": 368,
   "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub": 16,
-  "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 6
+  "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8
  },
- "raw": 405,
- "unique": 405,
- "endpoints": 344,
- "alive_endpoints": 263,
- "kept": 303
+ "raw": 407,
+ "unique": 407,
+ "endpoints": 342,
+ "alive_endpoints": 257,
+ "kept": 297
 }
