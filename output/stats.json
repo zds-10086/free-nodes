@@ -1,0 +1,15 @@
+{
+ "sources": 5,
+ "per_source": {
+  "https://raw.githubusercontent.com/freefq/free/master/v2": 15,
+  "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2": "ERR:HTTPError",
+  "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt": 364,
+  "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub": 16,
+  "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11
+ },
+ "raw": 406,
+ "unique": 406,
+ "endpoints": 338,
+ "alive_endpoints": 108,
+ "kept": 147
+}

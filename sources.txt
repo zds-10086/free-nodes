@@ -1,0 +1,12 @@
+# 订阅源列表 —— 每行一个 URL, # 开头为注释
+#
+# 下面是常见的公开自动更新仓库, 用之前先自己打开看一眼
+# 是否还在更新(commits 有每天自动提交)、文件路径是否还对。
+# 失效的删掉或换成你自己找到的源。
+
+https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+# 404 已失效: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
